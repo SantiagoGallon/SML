@@ -14,7 +14,7 @@ Two well-known programming languages for machine learning will be used for the a
 
 ## Contents
 
-1. Statistical learning
+      1. Statistical learning
    
          1.1. What is statistical learning?
          1.2. Supervised versus unsupervised learning
@@ -24,13 +24,13 @@ Two well-known programming languages for machine learning will be used for the a
          1.6. The bias-variance trade-off
          1.7. Resampling methods: cross-validation and bootstrap
    
- 2. Generalized linear models with penalties
+      2. Generalized linear models with penalties
     
          2.1. Introduction to Generalized Linear Models (GLM’s)
          2.2. Shrinkage methods: ridge, lasso and elastic net
          2.3. Least angle regression and coordinate descent algorithms
 
-3. Introduction to nonparametric regression
+      3. Introduction to nonparametric regression
 
          3.1. k-nearest neighbors regression
          3.2. Kernel smoothing 
@@ -38,14 +38,14 @@ Two well-known programming languages for machine learning will be used for the a
          3.4. Regression and smoothing splines
          3.5. Orthogonal series
 
- 4. Decision trees
+      4. Decision trees
 
          4.1. Classification trees
          4.2. Regression trees
          4.3. Induction of decision trees
          4.4. Pruning
 
- 5. Ensemble methods
+      5. Ensemble methods
     
          5.1. Bagging
     
@@ -58,38 +58,38 @@ Two well-known programming languages for machine learning will be used for the a
     
          5.3. Boosting
         
-        5.3.1. Discrete adaptive boosting
-        5.3.2. The forward stagewise algorithm
-        5.3.3. Forward stagewise additive logistic model
-        5.3.4. Gradient boosting and gradient tree boosting
-        5.3.5. Regularization
-        5.3.6. Stochastic gradient boosting and stochastic gradient tree boosting
-        5.3.7. Extreme gradient boosting
+              5.3.1. Discrete adaptive boosting
+              5.3.2. The forward stagewise algorithm
+              5.3.3. Forward stagewise additive logistic model
+              5.3.4. Gradient boosting and gradient tree boosting
+              5.3.5. Regularization
+              5.3.6. Stochastic gradient boosting and stochastic gradient tree boosting
+              5.3.7. Extreme gradient boosting
 
-6. Support vector machines
+      6. Support vector machines
 
-       6.1. Separating hyperplanes
-       6.2. Kernels and reproducing kernel Hilbert spaces
-       6.3. Support vector classification (two- and multi-classification)
-       6.4. Support vector regression
+         6.1. Separating hyperplanes
+         6.2. Kernels and reproducing kernel Hilbert spaces
+         6.3. Support vector classification (two- and multi-classification)
+         6.4. Support vector regression
 
-7. Artificial Neural Networks
+      7. Artificial Neural Networks
 
-       7.1. Perceptrons: Single- and multi-layer perceptrons
-       7.2. The gradient descent algorithm
-       7.3. The backpropagation algorithm
-       7.4. Activation and loss functions
-       7.5. Fitting neural networks
-       7.6. Relating statistical methods
+         7.1. Perceptrons: Single- and multi-layer perceptrons
+         7.2. The gradient descent algorithm
+         7.3. The backpropagation algorithm
+         7.4. Activation and loss functions
+         7.5. Fitting neural networks
+         7.6. Relating statistical methods
 
-8. Linear dimensionality reduction
+      8. Linear dimensionality reduction
   
         8.1. Principal component analysis
         8.2. Factor analysis
         8.3. Multidimensional scaling
         8.4. Sparse PCA
 
-9. Clustering
+      9. Clustering
     
        9.1. Proximity and dissimilarity matrices
        9.2. K-means clustering
