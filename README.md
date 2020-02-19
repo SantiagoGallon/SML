@@ -15,6 +15,7 @@ Two well-known programming languages for machine learning will be used for the a
 ## Contents
 
   1. Statistical learning
+    
     1.1. What is statistical learning?
     1.2. Supervised versus unsupervised learning
     1.3. Classification and regression problems
@@ -22,10 +23,12 @@ Two well-known programming languages for machine learning will be used for the a
     1.5. Performance evaluation
     1.6. The bias-variance trade-off
     1.7. Resampling methods: cross-validation and bootstrap
+  
   2. Generalized linear models with penalties
+    
     2.1. Introduction to Generalized Linear Models (GLM’s)
     2.2. Shrinkage methods
       2.2.1. Ridge regression
       2.2.2. Lasso
       2.2.3. Elastic net
-  2.3. Least angle regression and coordinate descent algorithms
+    2.3. Least angle regression and coordinate descent algorithms
