@@ -11,3 +11,21 @@ The main objective of the course is to provide a complete overview of the basic 
 ## Software:
 
 Two well-known programming languages for machine learning will be used for the applications during the course, Python (https://www.python.org/) and R (http://www.r-project.org/). Both languages are the most used among the scientific data community for data mining, statistical analysis, predictive analysis, processing and visualization information, etc.
+
+## Contents
+
+  1. Statistical learning
+    1.1. What is statistical learning?
+    1.2. Supervised versus unsupervised learning
+    1.3. Classification and regression problems
+    1.4. The trade-off between prediction and inference
+    1.5. Performance evaluation
+    1.6. The bias-variance trade-off
+    1.7. Resampling methods: cross-validation and bootstrap
+  2. Generalized linear models with penalties
+    2.1. Introduction to Generalized Linear Models (GLM’s)
+    2.2. Shrinkage methods
+      2.2.1. Ridge regression
+      2.2.2. Lasso
+      2.2.3. Elastic net
+  2.3. Least angle regression and coordinate descent algorithms
