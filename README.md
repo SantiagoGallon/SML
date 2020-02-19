@@ -90,7 +90,7 @@ Two well-known programming languages for machine learning will be used for the a
         
         5.3.7. Extreme gradient boosting
 
-  6. Support vector machines
+6. Support vector machines
 
    6.1. Separating hyperplanes
    
