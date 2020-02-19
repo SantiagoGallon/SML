@@ -33,19 +33,25 @@ Two well-known programming languages for machine learning will be used for the a
  2. Generalized linear models with penalties
     
     2.1. Introduction to Generalized Linear Models (GLM’s)
+    
     2.2. Shrinkage methods
-      2.2.1. Ridge regression
-      2.2.2. Lasso
-      2.2.3. Elastic net
+         2.2.1. Ridge regression
+         2.2.2. Lasso
+         2.2.3. Elastic net
+    
     2.3. Least angle regression and coordinate descent algorithms
 
-  3. Introduction to nonparametric regression
+3. Introduction to nonparametric regression
 
-    3.1. k-nearest neighbors regression
-    3.2. Kernel smoothing
-    3.3. Local polynomial regression
-    3.4. Regression and smoothing splines
-    3.5. Orthogonal series (projection estimators)
+   3.1. k-nearest neighbors regression
+   
+   3.2. Kernel smoothing 
+   
+   3.3. Local polynomial regression
+    
+   3.4. Regression and smoothing splines
+    
+   3.5. Orthogonal series
 
   4. Decision trees
 
