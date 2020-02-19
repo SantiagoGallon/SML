@@ -66,29 +66,29 @@ Two well-known programming languages for machine learning will be used for the a
     
     5.2. Random forests
         
-       5.2.1. Randomizing tree construction
+         5.2.1. Randomizing tree construction
         
-       5.2.2. Generalization error
+         5.2.2. Generalization error
         
-       5.2.3. Strength and correlation
+         5.2.3. Strength and correlation
         
-       5.2.4. Variable importance measures
+         5.2.4. Variable importance measures
     
     5.3. Boosting
         
-       5.3.1. Discrete adaptive boosting
+        5.3.1. Discrete adaptive boosting
        
-       5.3.2. The forward stagewise algorithm
+        5.3.2. The forward stagewise algorithm
        
-       5.3.3. Forward stagewise additive logistic model
+        5.3.3. Forward stagewise additive logistic model
        
-       5.3.4. Gradient boosting and gradient tree boosting
+        5.3.4. Gradient boosting and gradient tree boosting
        
-       5.3.5. Regularization
+        5.3.5. Regularization
        
-       5.3.6. Stochastic gradient boosting and stochastic gradient tree boosting
+        5.3.6. Stochastic gradient boosting and stochastic gradient tree boosting
         
-       5.3.7. Extreme gradient boosting
+        5.3.7. Extreme gradient boosting
 
   6. Support vector machines
 
