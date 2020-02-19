@@ -14,10 +14,9 @@ Two well-known programming languages for machine learning will be used for the a
 
 ## Contents
 
-   1. Statistical learning
-    
-    1.1. What is statistical learning?
-    1.2. Supervised versus unsupervised learning
+    1. Statistical learning
+        1.1. What is statistical learning?
+      1.2. Supervised versus unsupervised learning
     1.3. Classification and regression problems
     1.4. The trade-off between prediction and inference
     1.5. Performance evaluation
