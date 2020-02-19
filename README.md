@@ -51,10 +51,10 @@ Two well-known programming languages for machine learning will be used for the a
     
          5.2. Random forests
         
-         5.2.1. Randomizing tree construction
-         5.2.2. Generalization error
-         5.2.3. Strength and correlation
-         5.2.4. Variable importance measures
+              5.2.1. Randomizing tree construction
+              5.2.2. Generalization error
+              5.2.3. Strength and correlation
+              5.2.4. Variable importance measures
     
          5.3. Boosting
         
@@ -75,12 +75,12 @@ Two well-known programming languages for machine learning will be used for the a
 
 7. Artificial Neural Networks
 
-    7.1. Perceptrons: Single- and multi-layer perceptrons
-    7.2. The gradient descent algorithm
-    7.3. The backpropagation algorithm
-    7.4. Activation and loss functions
-    7.5. Fitting neural networks
-    7.6. Relating statistical methods
+       7.1. Perceptrons: Single- and multi-layer perceptrons
+       7.2. The gradient descent algorithm
+       7.3. The backpropagation algorithm
+       7.4. Activation and loss functions
+       7.5. Fitting neural networks
+       7.6. Relating statistical methods
 
 8. Linear dimensionality reduction
   
