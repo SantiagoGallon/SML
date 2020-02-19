@@ -35,9 +35,12 @@ Two well-known programming languages for machine learning will be used for the a
     2.1. Introduction to Generalized Linear Models (GLM’s)
     
     2.2. Shrinkage methods
-         2.2.1. Ridge regression
-         2.2.2. Lasso
-         2.2.3. Elastic net
+         
+       2.2.1. Ridge regression
+         
+       2.2.2. Lasso
+         
+       2.2.3. Elastic net
     
     2.3. Least angle regression and coordinate descent algorithms
 
@@ -53,21 +56,30 @@ Two well-known programming languages for machine learning will be used for the a
     
    3.5. Orthogonal series
 
-  4. Decision trees
+ 4. Decision trees
 
     4.1. Classification trees
+    
     4.2. Regression trees
+    
     4.3. Induction of decision trees
+    
     4.4. Pruning
 
-  5. Ensemble methods
+ 5. Ensemble methods
     
     5.1. Bagging
+    
     5.2. Random forests
-        5.2.1. Randomizing tree construction
-        5.2.2. Generalization error
-        5.2.3. Strength and correlation
-        5.2.4. Variable importance measures
+        
+       5.2.1. Randomizing tree construction
+        
+       5.2.2. Generalization error
+        
+       5.2.3. Strength and correlation
+        
+       5.2.4. Variable importance measures
+    
     5.3. Boosting
         5.3.1. Discrete adaptive boosting
         5.3.2. The forward stagewise algorithm
@@ -90,35 +102,54 @@ Two well-known programming languages for machine learning will be used for the a
         6.4.1. -support vector regression
         6.4.2. -support vector regression
 
-   7. Artificial Neural Networks
+7. Artificial Neural Networks
 
     7.1. Perceptrons
       7.1.1. Single-layer perceptrons
       7.1.2. Multi-layer perceptrons
+    
     7.2. The gradient descent algorithm
+    
     7.3. The backpropagation algorithm
+    
     7.4. Activation and loss functions
+    
     7.5. Fitting neural networks
+      
       7.5.1. Starting values
+      
       7.5.2. Overfitting
+      
       7.5.3. Input scaling
-        7.5.4. Number of hidden units and layers
+      
+      7.5.4. Number of hidden units and layers
+    
     7.6. Relating statistical methods
 
 8. Linear dimensionality reduction
   
     8.1. Principal component analysis
+    
     8.2. Factor analysis
+    
     8.3. Multidimensional scaling
+    
     8.4. Sparse PCA
 
-   9. Clustering
+9. Clustering
     
-    9.1. Proximity and dissimilarity matrices
-    9.2. $K$-means clustering
-    9.3. $K$-medoids clustering
-    9.4. Spectral clustering
-    9.5. Hierarchical clustering
-    9.6. Model-based clustering
-    9.7. Support-vector clustering
-    9.8. Density-based clustering
+   9.1. Proximity and dissimilarity matrices
+   
+   9.2. K-means clustering
+   
+   9.3. K-medoids clustering
+   
+   9.4. Spectral clustering
+   
+   9.5. Hierarchical clustering
+   
+   9.6. Model-based clustering
+   
+   9.7. Support-vector clustering
+   
+   9.8. Density-based clustering
