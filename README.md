@@ -34,13 +34,7 @@ Two well-known programming languages for machine learning will be used for the a
     
     2.1. Introduction to Generalized Linear Models (GLM’s)
     
-    2.2. Shrinkage methods
-         
-       2.2.1. Ridge regression
-         
-       2.2.2. Lasso
-         
-       2.2.3. Elastic net
+    2.2. Shrinkage methods: ridge, lasso and elastic net
     
     2.3. Least angle regression and coordinate descent algorithms
 
@@ -81,32 +75,34 @@ Two well-known programming languages for machine learning will be used for the a
        5.2.4. Variable importance measures
     
     5.3. Boosting
-        5.3.1. Discrete adaptive boosting
-        5.3.2. The forward stagewise algorithm
-        5.3.3. Forward stagewise additive logistic model
-        5.3.4. Gradient boosting
-            5.3.4.1. Gradient tree boosting
-        5.3.5. Regularization
-        5.3.6. Stochastic gradient boosting
-            5.3.6.1. Stochastic gradient tree boosting
-        5.3.7. Extreme gradient boosting
+        
+       5.3.1. Discrete adaptive boosting
+       
+       5.3.2. The forward stagewise algorithm
+       
+       5.3.3. Forward stagewise additive logistic model
+       
+       5.3.4. Gradient boosting and gradient tree boosting
+       
+       5.3.5. Regularization
+       
+       5.3.6. Stochastic gradient boosting and stochastic gradient tree boosting
+        
+       5.3.7. Extreme gradient boosting
 
   6. Support vector machines
 
-    6.1. Separating hyperplanes
-    6.2. Kernels and reproducing kernel Hilbert spaces
-    6.3. Support vectors for classification (two-class and multi-class)
-        6.3.1. $`\sqrt{2}`$-support vector classification
-        6.3.2. $`\sqrt{2}`$-support vector classification
-    6.4. Support vectors for regression
-        6.4.1. -support vector regression
-        6.4.2. -support vector regression
+   6.1. Separating hyperplanes
+   
+   6.2. Kernels and reproducing kernel Hilbert spaces
+   
+   6.3. Support vector classification (two- and multi-classification)
+   
+   6.4. Support vector regression
 
 7. Artificial Neural Networks
 
-    7.1. Perceptrons
-      7.1.1. Single-layer perceptrons
-      7.1.2. Multi-layer perceptrons
+    7.1. Perceptrons: Single- and multi-layer perceptrons
     
     7.2. The gradient descent algorithm
     
