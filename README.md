@@ -111,14 +111,6 @@ Two well-known programming languages for machine learning will be used for the a
     7.4. Activation and loss functions
     
     7.5. Fitting neural networks
-      
-      7.5.1. Starting values
-      
-      7.5.2. Overfitting
-      
-      7.5.3. Input scaling
-      
-      7.5.4. Number of hidden units and layers
     
     7.6. Relating statistical methods
 
