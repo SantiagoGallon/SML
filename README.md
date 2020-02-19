@@ -48,16 +48,12 @@ Two well-known programming languages for machine learning will be used for the a
       5. Ensemble methods
     
          5.1. Bagging
-    
-         5.2. Random forests
-        
+         5.2. Random forests       
               5.2.1. Randomizing tree construction
               5.2.2. Generalization error
               5.2.3. Strength and correlation
               5.2.4. Variable importance measures
-    
          5.3. Boosting
-        
               5.3.1. Discrete adaptive boosting
               5.3.2. The forward stagewise algorithm
               5.3.3. Forward stagewise additive logistic model
@@ -84,18 +80,18 @@ Two well-known programming languages for machine learning will be used for the a
 
       8. Linear dimensionality reduction
   
-        8.1. Principal component analysis
-        8.2. Factor analysis
-        8.3. Multidimensional scaling
-        8.4. Sparse PCA
+         8.1. Principal component analysis
+         8.2. Factor analysis
+         8.3. Multidimensional scaling
+         8.4. Sparse PCA
 
       9. Clustering
     
-       9.1. Proximity and dissimilarity matrices
-       9.2. K-means clustering
-       9.3. K-medoids clustering
-       9.4. Spectral clustering
-       9.5. Hierarchical clustering
-       9.6. Model-based clustering
-       9.7. Support-vector clustering
-       9.8. Density-based clustering
+         9.1. Proximity and dissimilarity matrices
+         9.2. K-means clustering
+         9.3. K-medoids clustering
+         9.4. Spectral clustering
+         9.5. Hierarchical clustering
+         9.6. Model-based clustering
+         9.7. Support-vector clustering
+         9.8. Density-based clustering
