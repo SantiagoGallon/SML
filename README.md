@@ -14,17 +14,8 @@ Two well-known programming languages for machine learning will be used for the a
 
 ## Contents
 
-1. Item1
-   
-   1.1. SubItemA
-   
-   1.2. SubItemB
-        
-      - wat
-      
-      - inception noise
-
 1. Statistical learning
+   
    1.1. What is statistical learning?
    1.2. Supervised versus unsupervised learning
    1.3. Classification and regression problems
@@ -32,10 +23,8 @@ Two well-known programming languages for machine learning will be used for the a
    1.5. Performance evaluation
    1.6. The bias-variance trade-off
    1.7. Resampling methods: cross-validation and bootstrap
-  
-  
-  
-  2. Generalized linear models with penalties
+   
+ 2. Generalized linear models with penalties
     
     2.1. Introduction to Generalized Linear Models (GLM’s)
     2.2. Shrinkage methods
@@ -86,8 +75,8 @@ Two well-known programming languages for machine learning will be used for the a
         6.3.1. $`\sqrt{2}`$-support vector classification
         6.3.2. $`\sqrt{2}`$-support vector classification
     6.4. Support vectors for regression
-        6.4.1. -support vector regression
-        6.4.2. -support vector regression
+        6.4.1. -support vector regression
+        6.4.2. -support vector regression
 
    7. Artificial Neural Networks
 
@@ -104,7 +93,7 @@ Two well-known programming languages for machine learning will be used for the a
         7.5.4. Number of hidden units and layers
     7.6. Relating statistical methods
 
-    8. Linear dimensionality reduction
+8. Linear dimensionality reduction
   
     8.1. Principal component analysis
     8.2. Factor analysis
