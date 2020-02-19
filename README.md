@@ -15,6 +15,7 @@ Two well-known programming languages for machine learning will be used for the a
 ## Contents
 
 1. Statistical learning
+    
     1.1. What is statistical learning?
     1.2. Supervised versus unsupervised learning
     1.3. Classification and regression problems
@@ -40,38 +41,41 @@ Two well-known programming languages for machine learning will be used for the a
 3.5. Orthogonal series (projection estimators)
 
 4. Decision trees
-4.1. Classification trees
-4.2. Regression trees
-4.3. Induction of decision trees
-4.4. Pruning
+
+    4.1. Classification trees
+    4.2. Regression trees
+    4.3. Induction of decision trees
+    4.4. Pruning
 
 5. Ensemble methods
-5.1. Bagging
-5.2. Random forests
-5.2.1. Randomizing tree construction
-5.2.2. Generalization error
-5.2.3. Strength and correlation
-5.2.4. Variable importance measures
-5.3. Boosting
-5.3.1. Discrete adaptive boosting
-5.3.2. The forward stagewise algorithm
-5.3.3. Forward stagewise additive logistic model
-5.3.4. Gradient boosting
-5.3.4.1. Gradient tree boosting
-5.3.5. Regularization
-5.3.6. Stochastic gradient boosting
-5.3.6.1. Stochastic gradient tree boosting
-5.3.7. Extreme gradient boosting
+    
+    5.1. Bagging
+    5.2. Random forests
+        5.2.1. Randomizing tree construction
+        5.2.2. Generalization error
+        5.2.3. Strength and correlation
+        5.2.4. Variable importance measures
+    5.3. Boosting
+        5.3.1. Discrete adaptive boosting
+        5.3.2. The forward stagewise algorithm
+        5.3.3. Forward stagewise additive logistic model
+        5.3.4. Gradient boosting
+            5.3.4.1. Gradient tree boosting
+        5.3.5. Regularization
+        5.3.6. Stochastic gradient boosting
+            5.3.6.1. Stochastic gradient tree boosting
+        5.3.7. Extreme gradient boosting
 
 6. Support vector machines
-6.1. Separating hyperplanes
-6.2. Kernels and reproducing kernel Hilbert spaces
-6.3. Support vectors for classification (two-class and multi-class)
-6.3.1. C-support vector classification
-6.3.2. -support vector classification
-6.4. Support vectors for regression
-6.4.1. -support vector regression
-6.4.2. -support vector regression
+
+    6.1. Separating hyperplanes
+    6.2. Kernels and reproducing kernel Hilbert spaces
+    6.3. Support vectors for classification (two-class and multi-class)
+        6.3.1. $`\sqrt{2}`$-support vector classification
+        6.3.2. $`\sqrt{2}`$-support vector classification
+    6.4. Support vectors for regression
+        6.4.1. -support vector regression
+        6.4.2. -support vector regression
 
 7. Artificial Neural Networks
   7.1. Perceptrons
